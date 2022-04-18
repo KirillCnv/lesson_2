@@ -1,0 +1,12 @@
+5
+3
+8
+Yolochka
+8Yolochka
+NaN
+number
+item_6 == number
+item_6_type == number
+item_7 == string
+item_7_type == string
+You don’t have access cause your age is10Its less then
